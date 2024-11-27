@@ -25,7 +25,6 @@
   <script src="script.js"></script>
 </body>
 </html>
-/* Estilo inspirado no GitHub */
 
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe
