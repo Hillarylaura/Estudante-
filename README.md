@@ -27,4 +27,4 @@
 </html>
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe"
