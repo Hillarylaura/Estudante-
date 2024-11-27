@@ -19,7 +19,7 @@
       </div>
     </main>
     <footer>
-      <p>Desenvolvido por [Seu Nome] | Projeto no estilo GitHub</p>
+      <p>Desenvolvido por hillarylaura | Projeto no estilo GitHub</p>
     </footer>
   </div>
   <script src="script.js"></script>
